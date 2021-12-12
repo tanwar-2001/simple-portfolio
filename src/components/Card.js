@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../images/profile.jpeg";
+import profile from "../images/profile-pic.jpeg";
 import { FaEnvelope, FaGithub, FaInstagram, FaTwitter } from "react-icons/fa";
 
 const Card = () => {
