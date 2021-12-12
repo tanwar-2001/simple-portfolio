@@ -8,7 +8,6 @@ import {
   SiMaterialui,
   SiFirebase,
   SiRedux,
-  SiPython,
   SiAwsamplify,
 } from "react-icons/si";
 import { IoLogoNodejs } from "react-icons/io";
